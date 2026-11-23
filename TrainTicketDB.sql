@@ -47,7 +47,6 @@ CREATE TABLE `booking_table` (
 
 LOCK TABLES `booking_table` WRITE;
 /*!40000 ALTER TABLE `booking_table` DISABLE KEYS */;
-INSERT INTO `booking_table` VALUES (1,'TB101','Athi',7,200.00,4,800.00,'2026-11-22','2026-12-01','Confirmed'),(2,'TB59','Athi',7,200.00,2,400.00,'2026-11-23','2026-12-15','Confirmed'),(3,'TB53','Athi',7,200.00,6,1200.00,'2026-11-23','2026-12-01','Confirmed');
 /*!40000 ALTER TABLE `booking_table` ENABLE KEYS */;
 UNLOCK TABLES;
 
